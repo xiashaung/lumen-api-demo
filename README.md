@@ -1,2 +1,1 @@
-# lumen-api-demo
-demo   lumen api 
+### lumen api right way
